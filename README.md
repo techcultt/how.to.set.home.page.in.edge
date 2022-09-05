@@ -1,6 +1,6 @@
 # How to set home page in edge ?
 
-[![How to set home page in edge](red.png)](https://computersolve.com/how-to-set-home-page-in-edge/)
+[![How to set home page in edge](red.png)](https://icncomputer.com/how-to-set-home-page-in-edge/)
 
 By default, Microsoft Edge opens with a custom **“New Tab”** page full of content. Luckily, it’s easy to open the browser with a custom home page instead. You can also set the page that appears when you click a “home” icon on the toolbar, which is disabled by default.
 
